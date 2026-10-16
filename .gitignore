@@ -1,0 +1,10 @@
+﻿.venv/
+venv/
+env/
+dataset/
+clean_dataset/
+outputs/
+__pycache__/
+*.py[cod]
+models/model_initial.h5
+models/model_finetuned.h5

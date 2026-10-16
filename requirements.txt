@@ -1,0 +1,11 @@
+tensorflow>=2.10.0
+streamlit>=1.20.0
+opencv-python>=4.7.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+scipy>=1.9.0
+imagehash>=4.3.1
+tf-keras>=2.16.0
+mysql-connector-python>=8.0.0
